@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Bukov", "Stack_Bukov\Stack_Bukov.csproj", "{BAC7E038-D84C-491F-BF68-34425389D668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC7E038-D84C-491F-BF68-34425389D668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC7E038-D84C-491F-BF68-34425389D668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC7E038-D84C-491F-BF68-34425389D668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC7E038-D84C-491F-BF68-34425389D668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
